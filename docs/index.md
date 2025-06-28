@@ -13,4 +13,13 @@
 
 ## Features
 
--   TODO
+-   Create interactive maps
+-   Process geospatial data
+
+## Usage
+
+```python
+import geonext
+import os
+
+```
