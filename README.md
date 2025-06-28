@@ -14,4 +14,5 @@
 
 ## Features
 
--   TODO
+-   Create interactive maps with minimal line of code
+-   Greatea tool for GIS
