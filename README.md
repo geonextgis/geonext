@@ -15,4 +15,5 @@
 ## Features
 
 -   Create interactive maps with minimal line of code
--   Greatea tool for GIS
+-   Great tool for GIS
+-   hello world
