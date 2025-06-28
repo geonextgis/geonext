@@ -10,8 +10,9 @@
 
 -   Free software: MIT License
 -   Documentation: https://geonextgis.github.io/geonext
-    
+
 
 ## Features
 
--   TODO
+-   Create interactive maps with minimal line of code
+-   Greatea tool for GIS
